@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 300 !important;
+  color: #222;
+  line-height: 27px;
+  background: #fff;
+}
+
+h1 {
+  font-size: 200%;
+  line-height: 140%;
+}
+
+#maintitle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 75%;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
